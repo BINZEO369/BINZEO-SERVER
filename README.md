@@ -6,21 +6,14 @@ Node.js ভিত্তিক সেন্ট্রাল সার্ভার 
 BINZEO CENTRAL SERVER/
 │
 ├── src/
-│   ├── core/
-│   ├── config/
 │   ├── management/
 │   ├── jabiyen/
 │   ├── binzeo/
-│   ├── other-websites/
-│   ├── shared/
-│   └── integrations/
+│   └── other-websites/
 │
 ├── database/
 ├── storage/
-├── infrastructure/
-├── tests/
 ├── docs/
-├── scripts/
 │
 ├── .env.example
 ├── Dockerfile
