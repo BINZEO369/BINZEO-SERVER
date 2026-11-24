@@ -9,10 +9,9 @@ BINZEO CENTRAL SERVER/
 │   ├── core/
 │   ├── config/
 │   ├── management/
-│   ├── websites/
-│   │   ├── jabiyen/
-│   │   ├── binzeo/
-│   │   └── other-websites/
+│   ├── jabiyen/
+│   ├── binzeo/
+│   ├── other-websites/
 │   ├── shared/
 │   └── integrations/
 │
