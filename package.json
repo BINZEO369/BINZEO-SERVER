@@ -1,0 +1,10 @@
+{
+  "name": "binzeo-central-server",
+  "version": "0.1.0",
+  "description": "BINZEO Central Server (Node.js)",
+  "private": true,
+  "main": "dist/index.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
